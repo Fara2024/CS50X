@@ -39,8 +39,7 @@ That said, feel free to peek at my code and learn from my approach — and remem
 ## 🗂️ Table of Contents
 
 ### Week 0 — Scratch
-- [PSet Instructions](#)  
-  *(Solutions coming soon)*
+https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 
 ---
 
