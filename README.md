@@ -123,9 +123,3 @@ If you have any questions or want to discuss a particular problem, feel free to 
 
 ---
 
-## ⭐ Support
-
-If you found this repository helpful or inspiring, please consider leaving a **star ⭐** — it really helps!
-
----
-
