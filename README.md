@@ -1,4 +1,4 @@
-# CS50x 2024 — Introduction to Computer Science
+# CS50x — Introduction to Computer Science
 
 > *“This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.”*
 
