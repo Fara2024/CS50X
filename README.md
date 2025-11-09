@@ -119,6 +119,7 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 ## 💬 Discussions
 
 If you have any questions or want to discuss a particular problem, feel free to open a topic in **[Discussions](../../discussions)** — I’ll be happy to help!
+and if you are satisfy please leave me a star, that's kind of you.
 
 ---
 
