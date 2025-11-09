@@ -48,7 +48,7 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
   - [hello](#)  
   - [mario](#)  
   - [more](#)  
-  - [credit](#)
+  - [credit](https://github.com/Fara2024/CS50X/blob/main/Week%201%20%E2%80%94%20C/credit/credit.c)
 
 ---
 
