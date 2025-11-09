@@ -46,8 +46,7 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 ### Week 1 — C
 - [PSet Instructions](https://github.com/Fara2024/CS50X/blob/main/Week%201%20%E2%80%94%20C/PSet%20Instructionsh/PSet%20Instractions.txt))  
   - [hello](https://github.com/Fara2024/CS50X/blob/main/Week%201%20%E2%80%94%20C/hello/hello.c)  
-  - [mario](#)  
-  - [more](#)  
+  - [mario-more](https://github.com/Fara2024/CS50X/blob/main/Week%201%20%E2%80%94%20C/mario-more/mario-more.c)  
   - [credit](https://github.com/Fara2024/CS50X/blob/main/Week%201%20%E2%80%94%20C/credit/credit.c)
 
 ---
