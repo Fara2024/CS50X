@@ -1,0 +1,16 @@
+What to Do
+Submit Sort
+Submit Plurality
+Submit one of:
+Runoff, if feeling more or less comfortable
+Tideman, if feeling very, very, very comfortable
+If you submit both Runoff and Tideman, we’ll record the higher of your two scores. Note that Tideman is optional but challenging!
+
+Advice
+Try out any of David’s programs from class via Week 3’s source code.
+If you see any errors when compiling your code with make, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking help50 for help. For instance, if trying to compile plurality, and
+make plurality
+is yielding errors, try running
+
+help50 make plurality
+instead!
