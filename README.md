@@ -52,11 +52,11 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 ---
 
 ### Week 2 — Arrays
-- [PSet Instructions](#)  
-- [Lab 2: Scrabble Instructions](#)  
-  - [readability](#)  
-  - [caesar](#)  
-  - [substitution](#)
+- [PSet Instructions](https://github.com/Fara2024/CS50X/blob/main/Week2_Array/PSetInstructions.txt)  
+- [Scrabble](https://github.com/Fara2024/CS50X/blob/main/Week2_Array/scrabel.c)  
+  - [readability](https://github.com/Fara2024/CS50X/blob/main/Week2_Array/readability.c)  
+  - [caesar](https://github.com/Fara2024/CS50X/blob/main/Week2_Array/caesar.c)  
+  - [substitution](https://github.com/Fara2024/CS50X/blob/main/Week2_Array/substitution.c)
 
 ---
 
