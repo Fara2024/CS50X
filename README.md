@@ -79,9 +79,9 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 ---
 
 ### Week 5 — Data Structures
-- [PSet Instructions](#)  
-- [Lab 5: Inheritance Instructions](#)  
-  - [speller](#)
+- [PSet Instructions](https://github.com/Fara2024/CS50X/blob/main/Week%205__Data%20Structures/PSet%20Instructions.txt)  
+- [Inheritance](https://github.com/Fara2024/CS50X/blob/main/Week%205__Data%20Structures/Inheritance.c)  
+  - [speller](https://github.com/Fara2024/CS50X/blob/main/Week%205__Data%20Structures/Speller.c)
 
 ---
 
