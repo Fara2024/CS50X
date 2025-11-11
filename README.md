@@ -61,11 +61,11 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 ---
 
 ### Week 3 — Algorithms
-- [PSet Instructions](#)  
-- [Lab 3: Sort Instructions](#)  
-  - [plurality](#)  
-  - [runoff](#)  
-  - [tideman](#)
+- [PSet Instructions](https://github.com/Fara2024/CS50X/blob/main/Week3__Algorithms/PSet%20Instructions.txt)  
+- [Sort](https://github.com/Fara2024/CS50X/tree/main/Week3__Algorithms/Sort)  
+  - [plurality](https://github.com/Fara2024/CS50X/blob/main/Week3__Algorithms/plurality.c)  
+  - [runoff](https://github.com/Fara2024/CS50X/blob/main/Week3__Algorithms/runoff.c)  
+  - [tideman](https://github.com/Fara2024/CS50X/blob/main/Week3__Algorithms/tideman.c)
 
 ---
 
