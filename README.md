@@ -86,16 +86,15 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 ---
 
 ### Week 6 — Python
-- [PSet Instructions](#)  
-- [Lab 6: World Cup Instructions](#)  
-  - [hello](#)  
-  - [mario](#)  
-  - [less](#)  
-  - [more](#)  
-  - [cash](#)  
-  - [credit](#)  
-  - [readability](#)  
-  - [dna](#)
+- [PSet Instructions](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/PSet%20Instructions.txt)  
+- [World Cup](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/World-Cup.py)  
+  - [hello](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/hello.py)   
+  - [mario-less](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/mario-less.py)  
+  - [mario-more](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/mario-more.py)  
+  - [cash](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/cash.py)  
+  - [credit](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/credit.py)  
+  - [readability](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/readability.py)  
+  - [dna](https://github.com/Fara2024/CS50X/blob/main/Week%206__Python/dna.py)
 
 ---
 
