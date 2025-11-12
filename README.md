@@ -99,10 +99,10 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 ---
 
 ### Week 7 — SQL
-- [PSet Instructions](#)  
-- [Lab 7: Songs Instructions](#)  
-  - [movies](#)  
-  - [fiftyville](#)
+- [PSet Instructions](https://github.com/Fara2024/CS50X/blob/main/Week%207__SQL/PSet%20Instructions.txt)  
+- [Songs](https://github.com/Fara2024/CS50X/tree/main/Week%207__SQL/Song)  
+  - [movies](https://github.com/Fara2024/CS50X/tree/main/Week%207__SQL/movies)  
+  - [fiftyville](https://github.com/Fara2024/CS50X/tree/main/Week%207__SQL/fiftyville)
 
 ---
 
