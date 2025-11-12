@@ -110,8 +110,17 @@ https://github.com/Fara2024/CS50X/blob/main/week0/problemset0/week0cs50x.sb3
 - [PSet Instructions](https://github.com/Fara2024/CS50X/blob/main/Week%208__HTML%2C%20CSS%2C%20JavaScript/PSet%20Instructions.txt)  
 -[homepage](https://github.com/Fara2024/CS50X/tree/main/Week%208__HTML%2C%20CSS%2C%20JavaScript/homepage)
 - [Trivia](https://github.com/Fara2024/CS50X/tree/main/Week%208__HTML%2C%20CSS%2C%20JavaScript/trivia)
-- <img width="2880" height="862" alt="image" src="https://github.com/user-attachments/assets/a787e6a1-bb88-4bf1-beff-652bce735c7d" />
 
+---
+
+### Week 9 _ Flask
+-[ Birthdays]()
+-[Finance]()
+
+---
+
+### Week 9 _ Final Project
+-[Tarmoo]()
 ---
 
 ## 💬 Discussions
