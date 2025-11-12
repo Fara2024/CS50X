@@ -1,0 +1,31 @@
+HTML Tags:
+1. <h1>
+2. <h2>
+3. <p>
+4. <img>
+5. <nav>
+6. <a>
+7. <div>
+8. <form>
+9. <input>
+10. <textarea>
+
+CSS Selectors:
+1. body
+2. h1, h2
+3. .navbar
+4. img
+5. #message
+
+CSS Properties:
+1. background-color
+2. font-family
+3. color
+4. margin-bottom
+5. border
+
+JavaScript usage:
+Used for simple alert when form is submitted and on page load to greet the user.
+
+Bootstrap usage:
+Used for navbar, grid system, buttons, form styling, and responsive layout.
