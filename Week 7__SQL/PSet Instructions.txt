@@ -1,0 +1,9 @@
+What to Do
+Log into cs50.dev using your GitHub account
+Run update50 in your codespace’s terminal window to ensure your codespace is up-to-date and, when prompted, click Rebuild now
+Submit Songs
+Submit Movies
+Submit Fiftyville
+
+Advice
+Head to w3schools.com/sql for a handy reference!
